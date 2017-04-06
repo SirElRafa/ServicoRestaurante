@@ -1,0 +1,75 @@
+Total de pedidos iniciais: 12
+Distribuicao de pedidos iniciais:
+Cozinheiro 1:
+Pedido numero 1- Menu 101
+Pedido numero 5- Menu 565
+Pedido numero 8- Menu 810
+Pedido numero 10- Menu 101
+
+Cozinheiro 2:
+Pedido numero 2- Menu 203
+Pedido numero 6- Menu 645
+Pedido numero 12- Menu 125
+
+Cozinheiro 3:
+Pedido numero 3- Menu 320
+Pedido numero 11- Menu 114
+
+Cozinheiro 4:
+Pedido numero 4- Menu 412
+Pedido numero 7- Menu 720
+Pedido numero 9- Menu 904
+
+
+O(s) cozinheiro(s) com tempo de servico superior a 40 minutos eh/sao:
+Cozinheiro 1
+Cozinheiro 2
+
+Para agora o tempo minimo de espera para um novo cliente ser servido: 49
+
+Depois de algum tempo de servico a situacao na cozinha eh:
+Total de pedidos ainda ativos: 7
+Cozinheiro 1:
+Pedido numero 10- Menu 101
+Pedido numero 15- Menu 7
+
+Cozinheiro 2:
+Pedido numero 12- Menu 125
+
+Cozinheiro 3:
+Pedido numero 13- Menu 5
+Pedido numero 14- Menu 6
+
+Cozinheiro 4:
+Pedido numero 7- Menu 720
+Pedido numero 9- Menu 904
+
+
+Os cozinheiros com tempo de espera superior a 20 eh/sao:
+Cozinheiro 1
+Cozinheiro 3
+Cozinheiro 4
+
+Tempo minimo de espera para um novo cliente ser servido: 28
+
+O pedido mais antigo ainda nao servido eh:Pedido numero 7- Menu 720
+Depois de algum tempo de servico a situacao na cozinha eh:
+Total de pedidos ainda ativos: 4
+Cozinheiro 1:
+Pedido numero 15- Menu 7
+
+Cozinheiro 2:
+
+Cozinheiro 3:
+Pedido numero 14- Menu 6
+
+Cozinheiro 4:
+Pedido numero 7- Menu 720
+Pedido numero 9- Menu 904
+
+
+Os cozinheiros com tempo de espera superior a 15 eh/sao:
+Cozinheiro 4
+
+Tempo minimo de espera para um novo cliente ser servido: 10
+
