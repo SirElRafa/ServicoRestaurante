@@ -1,4 +1,4 @@
-# labp
+# Servico Restaurantes
 ## PT  
 
 Um projeto de faculdade de duração de uma semana com um sistema para distribuir ordens igualmente em um restaurante.
