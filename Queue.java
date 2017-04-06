@@ -85,6 +85,7 @@ public class Queue<E> {
             head = rear;
         else
             oldRear.next = rear;
+        size++;
     }
 
     //completar
@@ -93,6 +94,7 @@ public class Queue<E> {
             head=tail=null;
         else
             head = head.next;
+        size--;
     }
 
     public String toString(){
